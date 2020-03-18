@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'zh-tw'</initValue>
+      <name>G_Lang</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rg-play.com/'</initValue>
+      <name>G_royal</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rg-play.com/LiveGame/Royal'</initValue>
+      <name>G_LiveGame</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rg-play.com/SlotGame/PNG'</initValue>
+      <name>G_PNG</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rg-play.com/SlotGame/MGPlus'</initValue>
+      <name>G_MGPlus</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rg-play.com/About'</initValue>
+      <name>G_About</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rg-play.com/Contact'</initValue>
+      <name>G_Contact</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
